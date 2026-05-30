@@ -1,0 +1,7 @@
+consolidation.db
+тестовые_отчёты/
+*.xlsx
+*.log
+объяснение.txt
+pycache/
+venv/
